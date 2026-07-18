@@ -1,5 +1,5 @@
 # Personal-Website
-A simple personal website created using HTML.
+A simple personal website built using HTML.
 
 ## 📖 Overview
 This project includes:
